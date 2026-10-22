@@ -1,2 +1,4 @@
-let name = prompt("What is your name?");
-document.getElementById("greeting").textContent = "Hello, " + name + "!";
+"use strict";
+
+const name = prompt("Type your name.");
+document.querySelector("#greeting").textContent = "Hello, " + name + "!";
