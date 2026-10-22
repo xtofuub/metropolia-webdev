@@ -9,5 +9,6 @@ Tänne tulee Metropolian JavaScript-tehtäviä.
 Tehdyt tehtävät:
 
 - Tehtävä 1: 1 p
+- Tehtävä 2: 2 p
 
-**Pisteet yhteensä: 1 p**
+**Pisteet yhteensä: 3 p**
