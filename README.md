@@ -1,12 +1,28 @@
-# JavaScript-tehtävät
+# Metropolian web-kehityksen tehtävät
 
-Tänne tulee Metropolian JavaScript-tehtäviä.
+Tässä repositoriossa säilytän Metropolian web-kehityksen kurssin tehtäviä. Tehtävät on jaettu omiin kansioihinsa, jotta niitä on helppo löytää ja jatkaa myöhemmin.
 
-## Moduulit 1 ja 2
+## JavaScript (`js1`)
 
-Tehdyt tehtävät:
+- `task1/` ja `task2/`: moduulin 1 ensimmäiset tehtävät
+- `module-1-2/`: moduulien 1 ja 2 tehtävät 1–8
+- `module-3/`: moduulin 3 tehtävät 1–5
 
-- Tehtävä 1: 1 p
-- Tehtävä 2: 2 p
+## HTML ja CSS (`html-css`)
 
-**Pisteet yhteensä: 3 p**
+HTML- ja CSS-harjoitukset sekä verkkosivun rakentamiseen liittyvät tiedostot.
+
+## Kansiorakenne
+
+```text
+metropolia-webdev/
+├── README.md
+├── html-css/
+└── js1/
+    ├── task1/
+    ├── task2/
+    ├── module-1-2/
+    └── module-3/
+```
+
+Tehtävät voivat olla vielä keskeneräisiä, ja päivitän tätä repositoriota kurssin edetessä.
