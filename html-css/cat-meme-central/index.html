@@ -3,13 +3,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Static cat photos and funny feline moments from Cat Meme Central.">
   <title>Cat Meme Central - Home</title>
+  <link rel="preload" as="image" href="img/cat-hero.webp" type="image/webp" fetchpriority="high">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="page-container">
     <header>
-      <a href="index.html" class="site-logo">Every refresh, refreshes the cat images</a>
+      <a href="index.html" class="site-logo">Cat Meme Central</a>
       <nav>
         <a href="index.html" class="active">Home</a>
         <a href="products.html">Products</a>
@@ -18,9 +20,12 @@
     </header>
     <main>
       <h1>Cat Meme Central</h1>
-      <img src="https://cataas.com/cat?hero" class="hero-image" alt="A random cat">
+      <picture>
+        <source srcset="img/cat-hero.webp" type="image/webp">
+        <img src="img/cat-hero.jpg" class="hero-image" alt="A tabby cat relaxing at home" width="900" height="350" fetchpriority="high" decoding="async">
+      </picture>
       <p class="intro-text">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis labore atque iure perferendis, ut quidem distinctio suscipit, voluptatibus aperiam repudiandae aspernatur, nostrum debitis. Ad molestiae earum voluptatum deserunt doloribus obcaecati?
+        funi cats, funi life
       </p>
     </main>
   </div>
