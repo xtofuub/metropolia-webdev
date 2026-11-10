@@ -1,4 +1,8 @@
----
+# Metropolia Web Development
+
+My course exercises and small projects.
+
+**[JavaScript exercises](https://xtofuub.github.io/metropolia-webdev/js1/)**
 
 ## Software 2 programming assignments
 
