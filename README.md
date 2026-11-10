@@ -4,7 +4,7 @@ Tässä repositoriossa säilytän Metropolian web-kehityksen kurssin tehtäviä.
 
 ## JavaScript (`js1`)
 
-[**Avaa JavaScript-tehtävien etusivu**](https://xtofuub.github.io/metropolia-webdev/js1/)
+[**Avaa JavaScript-tehtävien etusivu**](https://xtofuub.github.io/metropolia-webdev/)
 
 - [Moduulit 1 ja 2 – tehtäväsivu](https://xtofuub.github.io/metropolia-webdev/js1/module-1-2/)
 - [Moduuli 3 – tehtäväsivu](https://xtofuub.github.io/metropolia-webdev/js1/module-3/)
