@@ -1,12 +1,9 @@
-name: Deploy Cat Meme Central
+name: Deploy Metropolia Webdev
 
 on:
   push:
     branches:
       - main
-    paths:
-      - "html-css/cat-meme-central/**"
-      - ".github/workflows/deploy-cat-meme-central.yml"
   workflow_dispatch:
 
 permissions:
@@ -34,7 +31,7 @@ jobs:
       - name: Upload website
         uses: actions/upload-pages-artifact@v3
         with:
-          path: html-css/cat-meme-central
+          path: .
 
       - name: Deploy website
         id: deployment
