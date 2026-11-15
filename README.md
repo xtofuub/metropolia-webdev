@@ -24,3 +24,17 @@ My course exercises and small projects.
 - [Task 3](https://xtofuub.github.io/metropolia-webdev/js1/module-3/exercise-3/)
 - [Task 4](https://xtofuub.github.io/metropolia-webdev/js1/module-3/exercise-4/)
 - [Task 5](https://xtofuub.github.io/metropolia-webdev/js1/module-3/exercise-5/)
+
+**[JS module 4](https://xtofuub.github.io/metropolia-webdev/js1/module-4/)**
+
+- [Task 1](https://xtofuub.github.io/metropolia-webdev/js1/module-4/exercise-1/)
+- [Task 2](https://xtofuub.github.io/metropolia-webdev/js1/module-4/exercise-2/)
+- [Task 3](https://xtofuub.github.io/metropolia-webdev/js1/module-4/exercise-3/)
+- [Task 4](https://xtofuub.github.io/metropolia-webdev/js1/module-4/exercise-4/)
+- [Task 5](https://xtofuub.github.io/metropolia-webdev/js1/module-4/exercise-5/)
+- [Task 6](https://xtofuub.github.io/metropolia-webdev/js1/module-4/exercise-6/)
+- [Task 7](https://xtofuub.github.io/metropolia-webdev/js1/module-4/exercise-7/)
+- [Task 8](https://xtofuub.github.io/metropolia-webdev/js1/module-4/exercise-8/)
+- [Task 9](https://xtofuub.github.io/metropolia-webdev/js1/module-4/exercise-9/)
+- [Task 10](https://xtofuub.github.io/metropolia-webdev/js1/module-4/exercise-10/)
+- [Task 11](https://xtofuub.github.io/metropolia-webdev/js1/module-4/exercise-11/)
