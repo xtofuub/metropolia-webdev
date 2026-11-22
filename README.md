@@ -38,3 +38,11 @@ My course exercises and small projects.
 - [Task 9](https://xtofuub.github.io/metropolia-webdev/js1/module-4/exercise-9/)
 - [Task 10](https://xtofuub.github.io/metropolia-webdev/js1/module-4/exercise-10/)
 - [Task 11](https://xtofuub.github.io/metropolia-webdev/js1/module-4/exercise-11/)
+
+## Flask exercises
+
+- [Exercise 1](flask/exercise-1/)
+- [Exercise 2](flask/exercise-2/)
+- [Exercise 3](flask/exercise-3/)
+
+These exercises use Flask and can be run locally on Windows. Install Flask with `pip install flask`, then run `python main.py` from the exercise folder.
